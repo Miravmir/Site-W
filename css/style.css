@@ -273,16 +273,9 @@
         margin: 0;
     }
 /* Форма */
-    .contact {
-    }
+
     .contact .block__head .block__title{
         padding-top: 95px;
-    }
-    .block__title {
-    }
-    .block__text {
-    }
-    .contact__inner {
     }
     .contact__icon-box {
         display: flex;
@@ -299,8 +292,6 @@
         color: #323232;
         font-size: 21px;
     }
-    .icon-phone {
-    }
     .contact__text{
         margin-bottom: 12px;
     }
@@ -316,10 +307,6 @@
     .contact__text a:hover{
         color: #4b4b4b;
         text-decoration: underline;
-    }
-    .icon-location {
-    }
-    .icon-mail-alt {
     }
     .contact__form {
         padding-top: 153px;
